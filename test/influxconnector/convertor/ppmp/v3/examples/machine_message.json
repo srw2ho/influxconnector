@@ -1,0 +1,16 @@
+{
+    "content-spec": "",
+    "device": {
+        "id": "a4927dad-58d4-4580-b460-79cefd56775b",
+        "state": "OK|INFO|ERROR",
+        "additionalData": {
+            "hostname": "test-hostname"
+        }
+    },
+    "messages": [
+        {
+            "code": "",
+            "ts": "2019-03-21T06:48:30.978Z"
+        }
+    ]
+}
