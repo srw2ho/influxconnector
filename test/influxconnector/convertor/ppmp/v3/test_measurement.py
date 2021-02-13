@@ -8,7 +8,7 @@ class TestPPMPMeasurement(unittest.TestCase):
     def __init__(self, *args, **kwargs):
         super(TestPPMPMeasurement, self).__init__(*args, **kwargs)
 
-        with open('./test/influx/convertor/ppmp/v3/examples/measurement_message.json') as json_file:
+        with open('./test/influxconnector/convertor/ppmp/v3/examples/measurement_message.json') as json_file:
             self.payload = json_file.read()
 
 
